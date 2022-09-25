@@ -7,9 +7,22 @@
 @import "./base/reset";
 @import "./base/container";
 
-
-//layout styles
-
-
 //components styles
 @import "./components/btn";
+@import "./components/logo";
+@import "./components/social-list";
+@import "./components/modal";
+
+
+//layout styles
+@import "./layouts/header";
+@import "./layouts/hero";
+@import "./layouts/features";
+@import "./layouts/activity";
+@import "./layouts/team";
+@import "./layouts/clients";
+@import "./layouts/footer";
+@import "./layouts/portfolio";
+
+
+
